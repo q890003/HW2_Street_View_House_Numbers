@@ -16,6 +16,7 @@ import time
 import copy
 import numpy as np
 
+import wget
 import utils
 import dataset
 import config
