@@ -2,7 +2,13 @@
 Selected-Topics-in-Visual-Recognition-using-Deep-Learning HW2
 ---
 # Street View House Numbers
-[TOC]
+[Reproducing the work](#Reproducingthework)  
+[Enviroment Installation](#Enviroment Installation)
+[Project installation](#Project installation)
+[Training](#Training)  
+[Inference](#Inference) 
+[Visualization](#Visualization)
+
 ## Reproducing the work
 ### Enviroment Installation
 1. install annoconda
