@@ -2,12 +2,13 @@
 Selected-Topics-in-Visual-Recognition-using-Deep-Learning HW2
 ---
 # Street View House Numbers
-[Reproducing the work](#Reproducingthework)  
-[Enviroment Installation](#Enviroment Installation)
-[Project installation](#Project installation)
-[Training](#Training)  
-[Inference](#Inference) 
-[Visualization](#Visualization)
+* [Street View House Numbers](#street-view-house-numbers)                                                                            
+  * [Reproducing the work](#reproducing-the-work)                                                                                   
+     * [Enviroment Installation](#enviroment-installation)                                                                          
+     * [Project installation](#project-installation)                                                                                
+  * [Training](#training)                                                                                                          
+  * [Inference](#inference)                                                                                                         
+  * [Visualization](#visualization) 
 
 ## Reproducing the work
 ### Enviroment Installation
